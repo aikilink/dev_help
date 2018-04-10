@@ -5,6 +5,10 @@ body {
 
 }
 
+body div p a {
+    color: #4CAF50;
+}
+
 .nav_li {
     list-style-type: none;
     border: 15px solid;
@@ -45,6 +49,10 @@ body {
     text-decoration: none;
     color:rgb(76, 175, 80);
 }
-details :hover {
+details ul li p a :hover {
+    text-decoration-line: underline;
+}
+
+.resource_dropdowns summary {
     cursor: pointer;
 }
