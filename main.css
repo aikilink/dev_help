@@ -56,3 +56,7 @@ details ul li p a :hover {
 .resource_dropdowns summary {
     cursor: pointer;
 }
+
+summary {
+    font-size: 1.1em;
+}
