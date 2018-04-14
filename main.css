@@ -53,10 +53,7 @@ details ul li p a :hover {
     text-decoration-line: underline;
 }
 
-.resource_dropdowns summary {
-    cursor: pointer;
-}
-
 summary {
     font-size: 1.1em;
+    cursor: pointer;
 }
